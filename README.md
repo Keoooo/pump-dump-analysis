@@ -24,7 +24,7 @@ This repository contains a Jupyter Notebook for analyzing historical cryptocurre
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/crypto-pump-and-dump-detection.git
+git clone https://github.com/Keoooo/crypto-pump-and-dump-detection.git
 ```
 
 2. Change the `coin_id` variable in the Jupyter Notebook to the desired cryptocurrency's CoinGecko ID (e.g., "bitcoin" for Bitcoin).
